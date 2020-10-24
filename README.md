@@ -10,3 +10,6 @@ To install yellowbrick,open terminal and type:
 ```
 conda install -c districtdatalabs yellowbrick
 ```
+
+Powerpoint:
+[powepoint](dm_assignment.pptx)
