@@ -12,4 +12,4 @@ conda install -c districtdatalabs yellowbrick
 ```
 
 Powerpoint:
-<iframe src="dm_assignment.pptx" height="300" width="300" title="Powerpoint presentation">
+<iframe src="dm_assignment.pptx" height="300" width="300" title="Powerpoint presentation"></iframe>
